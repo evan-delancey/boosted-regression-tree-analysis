@@ -59,3 +59,5 @@ foreach(i=1:16) %dopar% {
 
 t2=Sys.time()
 t2-t1
+
+#New data and commits
